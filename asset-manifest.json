@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/synerghire/static/css/main.01efe7a2.css",
+    "main.js": "/synerghire/static/js/main.deadb18e.js",
+    "static/js/488.8793fb33.chunk.js": "/synerghire/static/js/488.8793fb33.chunk.js",
+    "service-worker.js": "/synerghire/service-worker.js",
+    "index.html": "/synerghire/index.html",
+    "main.01efe7a2.css.map": "/synerghire/static/css/main.01efe7a2.css.map",
+    "main.deadb18e.js.map": "/synerghire/static/js/main.deadb18e.js.map",
+    "488.8793fb33.chunk.js.map": "/synerghire/static/js/488.8793fb33.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.01efe7a2.css",
+    "static/js/main.deadb18e.js"
+  ]
+}
